@@ -27,14 +27,6 @@ public class ScoreDTO {
 
 
 
-	public Long getMovieID() {
-		return movieId;
-	}
-
-	public void setMovieID(Long movieId) {
-		this.movieId = movieId;
-	}
-
 	public String getEmail() {
 		return email;
 	}

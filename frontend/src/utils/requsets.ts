@@ -1,0 +1,1 @@
+export const BASE_URL = process.env.REEACT_APP_BACKEND_URL ?? "http://localhost:8080";
